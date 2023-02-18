@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieAppTask</string>
+    <string name="no_movies_to_show">لا توجد أفلام لعرضها</string>
+    <string name="sorry">عذرا !!</string>
+    <string name="movie_details">تفاصيل الفيلم</string>
+    <string name="dollar">دولار</string>
+    <string name="release_date">تاريخ الاصدار:</string>
+    <string name="price">السعر:</string>
+</resources>
